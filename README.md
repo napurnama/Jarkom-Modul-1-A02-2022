@@ -139,7 +139,7 @@ Di sebuah planet bernama Viltrumite, terdapat Kementerian Komunikasi dan Informa
     ```
 
    ###### Dokumentasi
-   ![soal 9.1](gambar/soal-9-1.png)
+   ![soal 9.1](gambar/soal9-1.png)
 
 2. Temukan password rahasia (flag) dari organisasi bawah tanah yang disebutkan di atas!
    
