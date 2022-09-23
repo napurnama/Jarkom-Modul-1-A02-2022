@@ -14,7 +14,7 @@
     ```
 
    ###### Dokumentasi
-   ![]()
+   ![soal 1](gambar/soal-1.png)
 
 1. Ishaq sedang bingung mencari topik TA untuk semester ini, lalu ia datang ke website monta dan menemukan detail topik pada website “monta.if.its.ac.id”, judul TA apa yang dibuka oleh Ishaq?
    
@@ -26,7 +26,9 @@
     ```
 
    ###### Dokumentasi
-   ![]()
+   ![soal 2.1](gambar/soal2-1.png)
+   ![soal2.2](gambar/soal-2-2.png)
+   ![soal2.3](gambar/soal-2-3.png)
 
 1. Filter sehingga wireshark hanya menampilkan paket yang menuju port 80!
    
@@ -38,7 +40,7 @@
     ```
 
    ###### Dokumentasi
-   ![]()
+   ![soal 3](gambar/soal-3.png)
 
 1. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 21!
    
@@ -50,7 +52,7 @@
     ```
 
    ###### Dokumentasi
-   ![]()
+   ![soal 4](gambar/soal-4.png)
 
 1. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 443!
    
@@ -63,7 +65,7 @@
     ```
 
    ###### Dokumentasi
-   ![]()
+   ![soal 5](gambar/soal-5.png)
 
 1. Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id!
    
@@ -81,7 +83,8 @@
     ```
 
    ###### Dokumentasi
-   ![]()
+   ![soal 6.1](gambar/soal-6-1.png)
+   ![soal 6.2](gambar/soal-6-2.png)
 
 1. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
    
@@ -114,7 +117,11 @@ Di sebuah planet bernama Viltrumite, terdapat Kementerian Komunikasi dan Informa
     ```
 
    ###### Dokumentasi
-   ![]()
+   ![soal 8.1](gambar/soal-8-1.png)
+   ![soal 8.2](gambar/soal-8-2.png)
+   ![soal 8.3](gambar/soal-8-3.png)
+   ![soal 8.4](gambar/soal-8-4.png)
+   ![soal 8.5](gambar/soal-8-5.png)
 
 1. Terdapat laporan adanya pertukaran file yang dilakukan oleh kedua mahasiswa dalam percakapan yang diperoleh, carilah file yang dimaksud! Untuk memudahkan laporan kepada atasan, beri nama file yang ditemukan dengan format [nama_kelompok].des3 dan simpan output file dengan nama “flag.txt”.
    
@@ -132,7 +139,7 @@ Di sebuah planet bernama Viltrumite, terdapat Kementerian Komunikasi dan Informa
     ```
 
    ###### Dokumentasi
-   ![]()
+   ![soal 9.1](gambar/soal-9-1.png)
 
 2. Temukan password rahasia (flag) dari organisasi bawah tanah yang disebutkan di atas!
    
