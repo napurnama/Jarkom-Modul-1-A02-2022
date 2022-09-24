@@ -96,7 +96,8 @@
     ```
 
    ###### Dokumentasi
-   ![]()
+   ![soal 7.1](gambar/soal-7-1.png)
+   ![soal 7.1](gambar/soal-7-2.png)
 
 Untuk soal 8-10, silahkan baca cerita di bawah ini!
 
