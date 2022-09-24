@@ -26,7 +26,7 @@
     ```
 
    ###### Dokumentasi
-   ![soal 2.1](gambar/soal2-1.png)
+   ![soal 2.1](gambar/soal-2-1.png)
    ![soal2.2](gambar/soal-2-2.png)
    ![soal2.3](gambar/soal-2-3.png)
 
