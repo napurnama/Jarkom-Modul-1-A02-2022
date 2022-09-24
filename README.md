@@ -128,25 +128,18 @@ Di sebuah planet bernama Viltrumite, terdapat Kementerian Komunikasi dan Informa
    
    ###### Jawab
     
-    Digunakan display filter untuk mendapatkan semua paket yang menggunakan protokol TCP:
-    ```
-    tcp
-    ```
-    Karena pesan yang dikirim kemungkinan panjang, hasil capture diurutkan berdasarkan panjang paket yang paling besar.
-    <br>
-    Ditemukan dua ip suspek, yaitu `127.0.0.1` dan `127.0.1.1`. Digunakan filter ip address untuk memudahkan penelusuran perbincangan: 
-    ```
-    ip.addr == 127.0.0.1 and ip.addr == 127.0.1.1 and tcp.len > 0
-    ```
+    Dari percakapan yang didapat dari nomor 8, mereka akan bertukar file di port `9002`. Setelah dilakukan *follow tcp stream*, ditemukan file berisi `Salted__.:....B(......$E...K)..<<......f ......B.G4..+..`. Berdasarkan clue dari percakapan dan ilmu wibu yang ekstensif, didapatkan informasi bahwa file tersebut telah di-enkripsi menggunakan `openssl` dengan metode `des3` beserta password filenya, yaitu `nakano`. Setelah mendapatkan informasi tersebut, file yang didapat disimpan dengan nama `A02.des3` kemudian di-decrypt menggunakan `openssl` dan disimpan di file `flag.txt`.
 
    ###### Dokumentasi
    ![soal 9.1](gambar/soal9-1.png)
+   ![soal 9.2](gambar/soal-9-2.png)
+   ![soal 9.3](gambar/soal-9-3.png)
 
 2. Temukan password rahasia (flag) dari organisasi bawah tanah yang disebutkan di atas!
    
    ###### Jawab
     
-    Berdasarkan clue dari percakapan dan ilmu wibu yang ekstensif, didapatkan password file, yaitu `nakano`.
+    Password rahasia dari organisasi bawah tanah tersimpan di dalam file `flag.txt`, yang berisi `JaRkOm2022{8uK4N_CtF_k0k_h3h3h3}`
 
    ###### Dokumentasi
-   ![]()
+   ![soal 10.1](gambar/soal-10-1.png)
